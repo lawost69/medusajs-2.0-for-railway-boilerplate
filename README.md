@@ -39,7 +39,7 @@ This boilerplate is a monorepo consisting of the officially released MedusaJS 2.
 
 Updated: to `version 2.8.4` 🥳
 
-## Preconfigured 3rd party integrations
+## Preconfigured 3rd Party Integrations
 
 - MinIO file storage: Replaces local file storage with MinIO cloud storage, automatically creating a 'medusa-media' bucket for your media files. [README](backend/src/modules/minio-file/README.md)
 - Resend email integration [Watch setup video](https://youtu.be/pbdZm26YDpE?si=LQTHWeZMLD4w3Ahw) - special thanks to [aleciavogel](https://github.com/aleciavogel) for Resend notification service, and react-email implementation! [README](backend/src/modules/email-notifications/README.md)
